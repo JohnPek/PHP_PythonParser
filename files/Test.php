@@ -8,4 +8,8 @@ class Test
 		echo 'hello world';
 	}
 
+	public function test()
+	{
+		echo 'what';
+	}
 }

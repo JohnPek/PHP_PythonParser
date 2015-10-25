@@ -3,7 +3,7 @@
 class Tester
 {
 
-	public function run()
+	public function todo()
 	{
 		echo 'hello world';
 	}
